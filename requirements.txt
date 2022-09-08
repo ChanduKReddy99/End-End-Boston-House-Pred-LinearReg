@@ -1,6 +1,7 @@
 pandas 
 scikit-learn
-jupyter notebook
+# jupyter notebook
 seaborn
 statsmodels
 Flask
+gunicorn
